@@ -78,5 +78,5 @@ This project is a completed academic and portfolio piece showcasing:
 ---
 
 ## Author
-Developed by [Your Name].  
+Developed by Sally Ibrahim.  
 Part of the Data Science & AI curriculum.  
