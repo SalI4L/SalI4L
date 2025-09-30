@@ -1,0 +1,1 @@
+pandas, streamlit, folium, streamlit-folium, joblib, tensorflow, numpy
